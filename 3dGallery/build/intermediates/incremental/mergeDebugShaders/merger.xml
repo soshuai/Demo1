@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/build-types/debug/shaders"/></dataSet></merger>

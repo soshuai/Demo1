@@ -1,0 +1,3 @@
+include ':app', ':mediarecorddemo', ':3dGallery', ':fly'
+include ':magicindicator'
+include ':recyclerviewlibrary'

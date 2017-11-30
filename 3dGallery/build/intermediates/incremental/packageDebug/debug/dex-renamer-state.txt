@@ -1,0 +1,4 @@
+#Tue Nov 28 14:41:18 CST 2017
+base.0=/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/build/intermediates/transforms/dexMerger/debug/0/classes.dex

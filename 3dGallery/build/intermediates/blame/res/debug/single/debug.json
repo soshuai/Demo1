@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/build/intermediates/res/merged/debug/drawable-hdpi_pic_4.jpg.flat",
+        "source": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/res/drawable-hdpi/pic_4.jpg"
+    },
+    {
+        "merged": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/build/intermediates/res/merged/debug/drawable-hdpi_pic_5.jpg.flat",
+        "source": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/res/drawable-hdpi/pic_5.jpg"
+    },
+    {
+        "merged": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/build/intermediates/res/merged/debug/drawable-hdpi_pic_2.png.flat",
+        "source": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/res/drawable-hdpi/pic_2.png"
+    },
+    {
+        "merged": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/build/intermediates/res/merged/debug/drawable-hdpi_pic_3.jpg.flat",
+        "source": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/res/drawable-hdpi/pic_3.jpg"
+    },
+    {
+        "merged": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/build/intermediates/res/merged/debug/drawable-hdpi_pic_8.jpg.flat",
+        "source": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/res/drawable-hdpi/pic_8.jpg"
+    },
+    {
+        "merged": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/build/intermediates/res/merged/debug/drawable-hdpi_pic_7.jpg.flat",
+        "source": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/res/drawable-hdpi/pic_7.jpg"
+    },
+    {
+        "merged": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/build/intermediates/res/merged/debug/drawable-hdpi_pic_6.png.flat",
+        "source": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/res/drawable-hdpi/pic_6.png"
+    },
+    {
+        "merged": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/build/intermediates/res/merged/debug/drawable-hdpi_pic_1.png.flat",
+        "source": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/res/drawable-hdpi/pic_1.png"
+    },
+    {
+        "merged": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/veryw/AndroidStudioProjects/Demo1/3dGallery/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]
